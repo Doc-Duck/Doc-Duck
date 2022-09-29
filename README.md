@@ -12,5 +12,5 @@
 </ul>
 <h2 align='center'>Latest projects</h2>
 <h3>- Crm system (Django + MYSql + ChartJS + Bootstrap): https://github.com/Doc-Duck/crmSystem
-<h3>- Mailing api (DjangoRestFramework + Postgres): *In progres*
+<h3>- Mailing api (DjangoRestFramework + Postgres): https://github.com/Doc-Duck/Mailing_API
 <h3>- Zero coding CRM framework (MVP) (Flask + SqlLite + SQLAlchemy + ChartJS + bootstrap): https://github.com/Doc-Duck/crmSystem
