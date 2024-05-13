@@ -1,5 +1,5 @@
 <h1 align='center'>Doc-Duck</h1>
-<h2 align='center' style='text-decoration: underline'>I`m fourth-year student from Sechenov University and i like to create some useful web apps.</h2>
+<h2 align='center' style='text-decoration: underline'></h2>
 <p align="center">
   <img style = 'height: 350px' src="https://github.com/Doc-Duck/Doc-Duck/blob/main/asests/528277660b0e63b1d1c89cfb258f891e.gif" />
 </p>
